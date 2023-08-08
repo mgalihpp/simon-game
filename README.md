@@ -1,1 +1,1 @@
-# simon-game(https://mgalihpp.github.io/simon-game)
+# [simon-game](https://mgalihpp.github.io/simon-game)
